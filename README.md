@@ -1,2 +1,3 @@
-# article
-我的文章
+## [1、PHP开启Xdebug调试指南](https://www.jianshu.com/p/53a9064cb4e7)
+## [2、学好用好ssh映射，开启公网php和nodejs调试](https://www.jianshu.com/p/2d608c48ce73)
+
